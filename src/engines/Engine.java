@@ -1,4 +1,10 @@
+package engines;
+
 public interface Engine {
 
-    String getSpeed();
+    Integer getSpeed();
+
+    String start();
+
+    String stop();
 }

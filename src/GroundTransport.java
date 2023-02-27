@@ -1,5 +1,3 @@
-package ground_transports;
-
 public interface GroundTransport {
 
     String start();
